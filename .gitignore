@@ -27,3 +27,4 @@ npm-debug.log*
 Thumbs.db
 "public/reports/*.pdf" 
 "public/certs/*.pdf" 
+".claude/" 
