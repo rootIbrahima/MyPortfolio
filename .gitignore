@@ -25,6 +25,6 @@ npm-debug.log*
 # OS
 .DS_Store
 Thumbs.db
-"public/reports/*.pdf" 
-"public/certs/*.pdf" 
-".claude/" 
+public/reports/*.pdf
+public/certs/*.pdf
+.claude/
